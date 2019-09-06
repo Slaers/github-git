@@ -20,6 +20,9 @@ git diff HEAD~1 =
 git pull = 
 git log =
 git clone =
+git checkout -b <nome da branch>
 git checkout <cod do log> =
 git checkout master =
 git checkout HEAD =
+git amend =
+git stash =
